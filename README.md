@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello World!
 
-<!--
-**KingAndJoker/KingAndJoker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----
 
-Here are some ideas to get you started:
+My name Vladislav and this my github page!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don't know how to do anything, in search of large projects 😁
+
+over time, I will try to correct the number of successful projects to a positive number 🤥
+
+My contacts:
+
+[VK](https://vk.com/id436057297 "VK")
+
+[Telegram](https://t.me/DKFL2002 "Telegram")
